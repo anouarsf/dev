@@ -1,0 +1,8 @@
+{
+  "mongoURI" : "mongodb+srv://anouargmc:lankergmc@devconnector-nrvpm.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId":"49cf0d8a1fc691e88338",
+  "githubSecret":"783a8365c88973e4dfacb5defc061bcd2936e49f"
+
+
+}
